@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Khaled Ahmed"
-resume_title:                   "Software Engineering Student"
+resume_title:                   "Resume"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "khahmed2143@gmail.com"
